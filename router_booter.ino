@@ -4,7 +4,7 @@ Description:
 This program allows an ESP8266 to pings an address, 
 if the address can't be reached, 
 the relay turns off and turns back on. The cycle continues,
-a number of attemps can be set before a timeout of 1 hour takes place. 
+a number of attempts can be set before a timeout of 1 hour takes place.
 Author: Marco A. Barreto - marcoagbarreto
 Version: 15-Jan-2023
 */
